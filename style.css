@@ -1,0 +1,43 @@
+
+body{
+    color: slategray;
+}
+.one>ul{
+    list-style: none;
+}
+
+.one>ul>li{
+    display: inline-block;
+    padding: 10px;
+}
+
+.active{
+    border: 1px solid #008bb4;
+    color: #008bb4;
+}
+i{
+    display: inline;
+}
+input{
+    border: none;
+}
+.bg-sky-blue{
+    background: url("images/block_0.png");
+}
+.IInd>img{
+    width: 100%;
+    height: auto;
+}
+.card>img{
+    width: 123px;
+    height: 123px;
+}
+.bg-blc {
+    background-color: #3a3a3a;
+}
+.bg-tr{
+    background: transparent;
+}
+.bg-primary{
+    background-color: #34495e !important;
+}
